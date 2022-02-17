@@ -1,0 +1,12 @@
+#Install Environment on EC2
+- Git (yum install git)
+- Docker (yum install docker)
+- docker-compose (https://docs.docker.com/compose/install/)
+- mysql (yum install mysql)
+- Nodejs (https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/setting-up-node-on-ec2-instance.html)
+- nodemon (npm install -g nodemon)
+- kubectl (https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html)
+- eksctl (https://docs.aws.amazon.com/eks/latest/userguide/eksctl.html)
+- helm
+
+
